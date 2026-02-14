@@ -1,37 +1,31 @@
 {
   "version": 1,
   "defaultHost": "<from-proxy>",
-  "defaultProxy": "https://proxy.mcraft.fun",
+  "defaultProxy": "https://server.duckcraft.top",
   "mapsProvider": "https://maps.mcraft.fun/",
   "skinTexturesProxy": "",
   "peerJsServer": "",
   "peerJsServerFallback": "https://p2p.mcraft.fun",
   "promoteServers": [
     {
-      "ip": "wss://play.mcraft.fun"
+      "ip": "wss://play.duckcraft.top"
     },
     {
-      "ip": "wss://play.webmc.fun",
-      "name": "WebMC"
+      "ip": "wss://play.duckcraft.top",
+      "name": "DuckCraft PvP"
     },
     {
-      "ip": "wss://ws.fuchsmc.net"
+      "ip": "wss://mystic.duckcraft.top"
     },
     {
-      "ip": "wss://play3.mcraft.fun"
+      "ip": "wss://survival.duckcraft.top"
     },
     {
-      "ip": "wss://play-creative.mcraft.fun",
-      "description": "Might be available soon, stay tuned!"
-    },
-    {
-      "ip": "kaboom.pw",
-      "version": "1.20.3",
-      "description": "Very nice a polite server. Must try for everyone!"
+      "ip": "wss://my.duckcraft.top",
     }
   ],
-  "rightSideText": "A Minecraft client clone in the browser!",
-  "splashText": "Thanks for testing my chaos!",
+  "rightSideText": "A Minecraft web port in the browser!",
+  "splashText": "Moo!","Made by RileyTheDeveloper",
   "splashTextFallback": "Welcome!",
   "pauseLinks": [
     [
@@ -43,7 +37,7 @@
       }
     ]
   ],
-  "defaultUsername": "mcrafter{0-9999}",
+  "defaultUsername": "cowcrafter{0-9999999}",
   "mobileButtons": [
     {
       "action": "general.drop",
